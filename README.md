@@ -1,4 +1,4 @@
-Playbook - Matriz de maturidade e priorização do item de implantação
+## Playbook - Matriz de maturidade e priorização do item de implantação
 
 ## 📒 Descrição
 Em um projeto de análise e redesenho de processos de negócio, identificamos a necessidade de adotar um modelo de trabalho que permitisse entregas incrementais relacionadas à implantação das oportunidades de melhoria que fossem sendo identificadas. Para isso, montamos uma matriz que define um indicador de maturidade do diagnóstico de um único item de implantação (uma oportunidade de melhoria), e um indicador que determina a prioridade desse item. Essa matriz permite determinar os esforços de discovery e delivery de maneira racional, equilibrando os recursos disponíveis.
